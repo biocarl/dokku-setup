@@ -10,7 +10,7 @@
 6. Provide buildpack file to spring repo [link](https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku#the-procfile)
 7. Set dokku url as remote of github repo and push
    
-## Level 2: Use Github Actions to automatically deploy to github pages
+## Level 2: Use Github Actions to automatically deploy to dokku
 - you will need the SSH key of dokkus git backend
 
 ## Level 3: Setup custom domain, Use it for static site hosting etc.
